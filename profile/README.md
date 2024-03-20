@@ -16,7 +16,7 @@ with many additional featues like User Management, Workspaces, Domain Configurat
 ## 🎯 Our Mission
 Create powerful, user-friendly tools that empower developers to deploy and manage blockchain networks and nodes with ease and confidence.
 
-## Final Thoughts
+## 🤔 Final Thoughts
 
 We're constantly working on improving Kotal, and we believe that collaboration is key to our success. We warmly invite you to contribute to our open-source projects. Your expertise and insights can help us enhance our tools and better serve the blockchain community.
 
